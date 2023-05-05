@@ -50,12 +50,9 @@ body form{
         margin: 0 1.5rem;
     }
 
-   body form span.result{
-        margin-top: 4rem;
-    }
 
     .submit{
-        margin-top: 2rem;
+        margin: .4rem 5rem;
     }
 }
 
